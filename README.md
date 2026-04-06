@@ -1,4 +1,4 @@
-# 🌌 ShadowDEX: Private Messaging & Atomic Trading
+# 🌌 ShadowDEX: Private Messaging Decentralized
 
 ![Solana](https://img.shields.io/badge/Network-Solana-black?style=for-the-badge&logo=solana)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
